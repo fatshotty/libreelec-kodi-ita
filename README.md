@@ -6,12 +6,12 @@ La iso sarà presto on line [a questo link](about:blank)
 
 # Addons
 
-[KodiLive TV e Koditeka](http://kodilive.eu)
-[Emby e EmbyCon](https://emby.media/)
-[TvHeadEnd](https://tvheadend.org/)
-[KoD](https://kodiondemand.github.io/)
-[Elementum](https://howtomediacenter.com/en/install-elementum-kodi/)
-[Opensubtitles](https://www.opensubtitles.org/it/it)
+- [KodiLive TV e Koditeka](http://kodilive.eu)
+- [Emby e EmbyCon](https://emby.media/)
+- [TvHeadEnd](https://tvheadend.org/)
+- [KoD](https://kodiondemand.github.io/)
+- [Elementum](https://howtomediacenter.com/en/install-elementum-kodi/)
+- [Opensubtitles](https://www.opensubtitles.org/it/it)
 
 ## Struttura cartelle
 
