@@ -1,7 +1,7 @@
 # LibreElec 9.0 kodi iso
 
 Questa è una iso di libreElec con kodi 18 Leia configurato e pronto all'uso. Ci sono già gli addon e i servizi configurati e avviati per l'utilizzo.
-La iso sarà presto on line [a questo link](about:blank)
+La iso sarà presto on line [a questo link](https://mega.nz/#!J08UxAwK!y7Qfe1qjsCd2vvZO9-ZJDjZISp_ka0a7cPkEVtii6MI)
 
 
 # Addons
@@ -42,10 +42,13 @@ Le sezioni già abilitate sono:
  - Addons
  - Power e Meteo
 
+## SSH abilitato
+Il servizio ssh è già abilitato: `root`/`libreelec`
 
 ## Emby Server
 Emby è studiato per fornire in tutta la rete locale (ma anche da remoto) l'intera libreria multimediale che gestisce. Pertanto è in grado di gestire Film, Musica e SerieTV, preoccupandosi di tenere le cartelle sincronizzate e aggiornate con i metadati necessari.
 La libreria multimediale di Kodi è interamente gestita da Emby.
+Per organizzare e modificare la libreria accedere via browser (o via app) a http://ip_raspberry:8096 `root`/`libreelec`
 ATTENZIONE: **non utilizzare i comandi di Kodi per aggiornare la libreria**, collegarsi ad Emby (tramite browser o app) per aggiornare/modificare/gestire le librerie
 
 
@@ -72,7 +75,7 @@ Altri dettagli disponibili [qui](https://www.npmjs.com/package/tv-channels-manag
 Per aggiornare il servizio collegarsi via SSH, andare nella cartella `/storage/tv-channels-manager` e lanciare il comando `npm update` o `npm install tv-channels-manager-ita` e riavviare il raspberry.
 
 ## Opensubtitles
-Questo addon permette di abilitare i sottotitoli. Account già impostato: `user`/`password`
+Questo addon permette di abilitare i sottotitoli. Account già impostato: `elecsubtitles`/`libreelec`
 
 
 
